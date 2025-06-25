@@ -82,22 +82,4 @@ The project is structured into several React components:
 2.  **Delete a Note:**
       * Click the "DELETE" button on any note to remove it from the list.
 
-## Contributing
 
-Contributions are welcome\! If you have suggestions for improvements or new features, please feel free to open an issue or submit a pull request.
-
-1.  Fork the repository.
-2.  Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the branch (`git push origin feature/AmazingFeature`).
-5.  Open a Pull Request.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information. (You would typically create a `LICENSE` file in the root of your project).
-
-## Contact
-
-Your Name/GitHub Profile - [Your Email/LinkedIn/Portfolio Link]
-
-Project Link: [Your GitHub Repository Link]
